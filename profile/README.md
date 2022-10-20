@@ -1,4 +1,4 @@
-## Hi there 👋
+## NetStalker is the monitoring and security platform for network traffic.
 
 <!--
 
